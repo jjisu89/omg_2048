@@ -50,7 +50,7 @@ var val2caption = function(val){
 
   const captions = [
   "아린", 
-  "비니",
+  "유빈",
   "지호",
   "승희",
   "유아", 
